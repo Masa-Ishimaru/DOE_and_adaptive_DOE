@@ -3,3 +3,4 @@ Scripts to use Bayesian optimization for adaptive DOE assuming the real situatio
 
 ![BO_find_minimum_values](https://user-images.githubusercontent.com/50325966/98520100-f2ece080-22b4-11eb-9960-720fbead1c0b.jpg)
 
+![animation_2](https://github.com/Masa-Ishimaru/DOE_and_adaptive_DOE/assets/50325966/e6853a09-b2ce-44eb-9c8e-5aa984c1fcef)
